@@ -3697,7 +3697,6 @@ dependencies = [
  "cfg-if",
  "hex",
  "hidapi",
- "ledger-transport 0.11.0 (registry+https://github.com/rust-lang/crates.io-index)",
  "libc",
  "log",
  "thiserror 1.0.69",
