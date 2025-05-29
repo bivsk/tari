@@ -3689,15 +3689,6 @@ dependencies = [
 ]
 
 [[package]]
-name = "ledger-transport"
-version = "0.11.0"
-source = "git+https://github.com/Zondax/ledger-rs?rev=4ed4cfdef0ae8b40e8997d849a3262bcf00c7d3c#4ed4cfdef0ae8b40e8997d849a3262bcf00c7d3c"
-dependencies = [
- "async-trait",
- "ledger-apdu",
-]
-
-[[package]]
 name = "ledger-transport-hid"
 version = "0.11.0"
 source = "git+https://github.com/Zondax/ledger-rs?rev=4ed4cfdef0ae8b40e8997d849a3262bcf00c7d3c#4ed4cfdef0ae8b40e8997d849a3262bcf00c7d3c"
